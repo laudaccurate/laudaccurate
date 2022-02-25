@@ -1,7 +1,7 @@
 # 💫About Laud Gilbert :
 Hi there 👋 , [Laud Gilbert](laudaccurate.github.io) here. A true product of God's Grace 
 
-## I'm a full stack developer with a knack for devops
+## I'm a Software Engineer. I am for Christ !!!
 
 
 
