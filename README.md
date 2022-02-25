@@ -1,5 +1,5 @@
 # 💫About Laud Gilbert :
-Hi there 👋 , [Laud Gilbert](laudaccurate.github.io) here. A true product of God's Grace 
+Hi there 👋 , [Laud Gilbert](https://laudaccurate.github.io) here. A true product of God's Grace 
 
 ## I'm a Software Engineer. I am for Christ !!!
 
