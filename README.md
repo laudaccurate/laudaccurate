@@ -12,9 +12,9 @@ Hi there 👋 , [Laud Gilbert](laudaccurate.github.io) here. A true product of G
 <details>
   <summary> 📊 GitHub Stats </summary>
 
-![](https://github-readme-stats.vercel.app/api?username=gyamfidennist&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gyamfidennist&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyamfidennist&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=laudaccurate&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=laudaccurate&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laudaccurate&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </details>
 
 <details> <summary>
@@ -30,7 +30,7 @@ While not particularly active but I'm present on these sites <br/>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 </details>
 <!--
-**gyamfidennist/gyamfidennist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**laudaccurate/laudaccurate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
