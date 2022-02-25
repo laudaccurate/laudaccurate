@@ -22,13 +22,7 @@ Hi there 👋 , [Laud Gilbert](laudaccurate.github.io) here. A true product of G
 While not particularly active but I'm present on these sites <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbert-laud-yaw-akakpo-6a7483156/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/laud_gilbert) 
 </details>
-<details> <summary>
-  ✍️ Random Dev Quote </summary>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</details>
-<details> <summary> 😂 Random Dev Meme </summary>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-</details>
+
 <!--
 **laudaccurate/laudaccurate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
