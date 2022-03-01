@@ -20,7 +20,7 @@ Hi there 👋 , [Laud Gilbert](https://laudaccurate.github.io) here. A true prod
 <details> <summary>
    🌐 Socials </summary>
 While not particularly active but I'm present on these sites <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]  (https://www.linkedin.com/in/gilbert-laud-yaw-akakpo-6a7483156/) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)  (https://www.linkedin.com/in/gilbert-laud-yaw-akakpo-6a7483156/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]  (https://twitter.com/laud_gilbert) 
 </details>
 
