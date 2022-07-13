@@ -1,7 +1,6 @@
-# 💫About Laud Gilbert :
-Hi there 👋 , [Laud Gilbert](https://laudaccurate.github.io) here. A true product of God's Grace 
+# 💫Hey, [Laud Gilbert](https://laudaccurate.github.io) here 😊: 
 
-## I'm a Software Engineer. I am for Christ !!!
+## I'm a Software Engineer, for God's Glory!!!
 
 
 
